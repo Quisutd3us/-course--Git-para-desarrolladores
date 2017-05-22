@@ -1,7 +1,9 @@
 h2, h3{
 		background: gray;
+		color: #fff;
 }
 
 h1{
-	text-decoration: underline;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 5em;
 }
